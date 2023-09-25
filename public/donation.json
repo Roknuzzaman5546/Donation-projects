@@ -4,96 +4,120 @@
       "img": "https://i.ibb.co/tCpwYWR/Health.png",
       "category": "Clean water for children",
       "button": "Health",
-      "color": "text-blue-600",
-      "bgColor": "bg-blue-300"
+      "color": "blue-700",
+      "btnbg": "blue-500",
+      "bgColor": "blue-300",
+      "discript": "Historically, transgender individuals have been excluded from the realm of healthcare services. The healthcare system has neglected the overall health of trans people, with a narrow focus on preventing HIV and STDs. As a result, non-communicable diseases, including mental health concerns, in the transgender community often go undiagnosed. According to a study on the human rights of transgender persons, gender affirmation surgeries are costly and beyond the reach of many trans people, and few hospitals in India are equipped with trained healthcare providers to perform them."
     },
     {
       "id": 2,
       "img": "https://i.ibb.co/8BPJ5qy/Education.png",
       "category": "Good education",
       "button": "Education",
-      "color": "#007BFF",
-      "bgColor": "#EDEDED"
+      "color": "red-700",
+      "btnbg": "red-500",
+      "bgColor": "red-300",
+      "discript": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
     },
     {
       "id": 3,
       "img": "https://i.ibb.co/Jdfq9D6/Clothing.png",
       "category": "Used Clothing Drive",
       "button": "Clothing",
-      "color": "#28A745",
-      "bgColor": "#F8F8F8"
+      "color": "lime-700",
+      "btnbg": "lime-500",
+      "bgColor": "lime-300",
+      "discript": "Clothing is also worn for decoration, as a fashion. People from different cultures wear different clothing, and have different beliefs and customs about what type of clothing should be worn. For many people, clothing is a status symbol. It helps people project an image. Often, clothing is a form of self-expression. Adults in different social or work situations present different views of themselves by the clothes they wear. Young people have an entirely different form of dress to express their personalities. Often people will simply follow popular fashion styles so that they will fit in. Clothing is far more than just a means to protect our bodies."
     },
     {
       "id": 4,
       "img": "https://i.ibb.co/nz5H7GM/Food.png",
       "category": "Better Food for Everyone",
       "button": "Food",
-      "color": "#6610F2",
-      "bgColor": "#FAFAFA"
+      "color": "orange-700",
+      "btnbg": "orange-500",
+      "bgColor": "orange-300",
+      "discript": "Today, the landscape of food writing is deeply personal. Delve into your newspaper’s food section, or pick up any culinary magazine or book, and you will find that the author’s point of view is present in the story being told. Think Julie Powell documenting her ferocious efforts to cook every classic Julia Child recipe in Julie and Julia: My Year of Cooking Dangerously. Or Anthony Bourdain disclosing sordid restaurant secrets in Kitchen Confidential."
     },
     {
       "id": 5,
       "img": "https://i.ibb.co/nz5H7GM/Food.png",
       "category": "Better Food for Everyone",
       "button": "Food",
-      "color": "#6610F2",
-      "bgColor": "#FAFAFA"
+      "color": "orange-700",
+      "btnbg": "orange-500",
+      "bgColor": "orange-300",
+      "discript": "Today, the landscape of food writing is deeply personal. Delve into your newspaper’s food section, or pick up any culinary magazine or book, and you will find that the author’s point of view is present in the story being told. Think Julie Powell documenting her ferocious efforts to cook every classic Julia Child recipe in Julie and Julia: My Year of Cooking Dangerously. Or Anthony Bourdain disclosing sordid restaurant secrets in Kitchen Confidential."
     },
     {
       "id": 6,
       "img": "https://i.ibb.co/Jdfq9D6/Clothing.png",
       "category": "Used Clothing Drive",
       "button": "Clothing",
-      "color": "#28A745",
-      "bgColor": "#F8F8F8"
+      "color": "lime-700",
+      "btnbg": "lime-500",
+      "bgColor": "lime-300",
+      "discript": "Clothing is also worn for decoration, as a fashion. People from different cultures wear different clothing, and have different beliefs and customs about what type of clothing should be worn. For many people, clothing is a status symbol. It helps people project an image. Often, clothing is a form of self-expression. Adults in different social or work situations present different views of themselves by the clothes they wear. Young people have an entirely different form of dress to express their personalities. Often people will simply follow popular fashion styles so that they will fit in. Clothing is far more than just a means to protect our bodies."
     },
     {
       "id": 7,
       "img": "https://i.ibb.co/8BPJ5qy/Education.png",
       "category": "Good education",
       "button": "Education",
-      "color": "#007BFF",
-      "bgColor": "#EDEDED"
+      "color": "red-700",
+      "btnbg":"red-500",
+      "bgColor": "red-300",
+      "discript" : "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
     },
     {
       "id": 8,
       "img": "https://i.ibb.co/tCpwYWR/Health.png",
       "category": "Clean water for children",
       "button": "Health",
-      "color": "text-blue-600",
-      "bgColor": "bg-blue-300"
+      "color": "blue-700",
+      "btnbg": "blue-500",
+      "bgColor": "blue-300",
+      "discript": "Historically, transgender individuals have been excluded from the realm of healthcare services. The healthcare system has neglected the overall health of trans people, with a narrow focus on preventing HIV and STDs. As a result, non-communicable diseases, including mental health concerns, in the transgender community often go undiagnosed. According to a study on the human rights of transgender persons, gender affirmation surgeries are costly and beyond the reach of many trans people, and few hospitals in India are equipped with trained healthcare providers to perform them."
     },
     {
       "id": 9,
       "img": "https://i.ibb.co/tCpwYWR/Health.png",
       "category": "Clean water for children",
       "button": "Health",
-      "color": "text-blue-600",
-      "bgColor": "bg-blue-300"
+      "color": "blue-700",
+      "btnbg": "blue-500",
+      "bgColor": "blue-300",
+      "discript": "Historically, transgender individuals have been excluded from the realm of healthcare services. The healthcare system has neglected the overall health of trans people, with a narrow focus on preventing HIV and STDs. As a result, non-communicable diseases, including mental health concerns, in the transgender community often go undiagnosed. According to a study on the human rights of transgender persons, gender affirmation surgeries are costly and beyond the reach of many trans people, and few hospitals in India are equipped with trained healthcare providers to perform them."
     },
     {
       "id": 10,
       "img": "https://i.ibb.co/8BPJ5qy/Education.png",
       "category": "Good education",
       "button": "Education",
-      "color": "#007BFF",
-      "bgColor": "#EDEDED"
+      "color": "red-700",
+      "btnbg": "red-500",
+      "bgColor": "red-300",
+      "discript" : "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
     },
     {
       "id": 11,
       "img": "https://i.ibb.co/Jdfq9D6/Clothing.png",
       "category": "Used Clothing Drive",
       "button": "Clothing",
-      "color": "#28A745",
-      "bgColor": "#F8F8F8"
+      "color": "lime-700",
+      "btnbg": "lime-500",
+      "bgColor": "lime-300",
+      "discript": "Clothing is also worn for decoration, as a fashion. People from different cultures wear different clothing, and have different beliefs and customs about what type of clothing should be worn. For many people, clothing is a status symbol. It helps people project an image. Often, clothing is a form of self-expression. Adults in different social or work situations present different views of themselves by the clothes they wear. Young people have an entirely different form of dress to express their personalities. Often people will simply follow popular fashion styles so that they will fit in. Clothing is far more than just a means to protect our bodies."
     },
     {
       "id": 12,
       "img": "https://i.ibb.co/nz5H7GM/Food.png",
       "category": "Better Food for Everyone",
       "button": "Food",
-      "color": "#6610F2",
-      "bgColor": "#FAFAFA"
+      "color": "orange-600",
+      "btnbg": "orange-500",
+      "bgColor": "orange-300",
+      "discript": "Today, the landscape of food writing is deeply personal. Delve into your newspaper’s food section, or pick up any culinary magazine or book, and you will find that the author’s point of view is present in the story being told. Think Julie Powell documenting her ferocious efforts to cook every classic Julia Child recipe in Julie and Julia: My Year of Cooking Dangerously. Or Anthony Bourdain disclosing sordid restaurant secrets in Kitchen Confidential."
     }
   ]
   

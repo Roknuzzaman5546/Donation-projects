@@ -9,15 +9,17 @@ import Mainlayout from './Components/Outlet/Outlet';
 import Donation from './Components/Donation/Donation';
 import Statistics from './Components/Statistics/Statistics';
 import Home from './Components/Home/Home';
+import Donat from './Components/Donat/Donat';
+import Erroreelement from './Components/Erroreelemnt/Erroreelement';
 
 const router = createBrowserRouter([
   {
     path: "/",
+    errorElement: <Erroreelement></Erroreelement>,
     element: <Mainlayout></Mainlayout>,
     children:[
       {
         path: "/",
-        loader: () => fetch("donation.json"), 
         element: <Home></Home>
       },
       {
@@ -27,6 +29,11 @@ const router = createBrowserRouter([
       {
         path: "/statistics",
         element: <Statistics></Statistics>
+      },
+      {
+        path: "/donat/:id",
+        element: <Donat></Donat>,
+        loader: () => fetch('donation.json')
       }
     ]
   },
