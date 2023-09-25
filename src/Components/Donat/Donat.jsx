@@ -19,10 +19,11 @@ const Donat = () => {
 
             <div className=" relative">
                 <img className="w-full" src={donat.img} alt="" />
-                <div style={{ backgroundColor: 'rgba(11, 11, 11, 0.50)' }} className=" w-full py-2 pl-4 absolute bottom-0 left-0">
+                <div style={{backgroundColor: 'rgba(11, 11, 11, 0.50)' }} className=" w-full py-2 pl-4 absolute bottom-0 left-0">
                     <button
                         onClick={() => handledonate()}
-                        className={`bg-${donat.bgColor} py-2 px-3 text-white rounded-sm`}>Donate $290</button>
+                        style={{ backgroundColor:donat.btnbg}}
+                        className={`py-2 px-3 text-white rounded-sm`}>Donate $290</button>
                 </div>
             </div>
             <div>

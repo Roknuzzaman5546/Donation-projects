@@ -4,7 +4,9 @@ import Homeall from "../Homeall/Homeall";
 const Home = () => {
     return (
         <div>
-            <Banner></Banner>
+            <div>
+                <Banner></Banner>
+            </div>
             <Homeall></Homeall>
         </div>
     );
