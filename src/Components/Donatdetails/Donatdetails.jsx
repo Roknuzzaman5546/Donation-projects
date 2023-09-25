@@ -2,7 +2,6 @@ import { NavLink } from "react-router-dom";
 
 const Donatdetails = ({ donate }) => {
     const { id, img, category, button, color, bgColor, btnbg} = donate;
-    console.log(bgColor)
     return (
         <div>
             <NavLink to={`/donat/${id}`}>
@@ -10,7 +9,7 @@ const Donatdetails = ({ donate }) => {
                 <figure><img src={img} alt="Shoes" /></figure>
                 <div className={` p-4`}>
                     <div className="">
-                        <button className={`bg-${btnbg} py-1 px-2 rounded-md`}>{button}</button>
+                        <button className={`bg-${btnbg} py-1 px-2 rounded-md bg-blue-500`}>{button}</button>
                     </div>
                     <h2 className="card-title">{category}</h2>
                 </div>

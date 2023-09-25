@@ -1,6 +1,7 @@
 import { useLoaderData, useParams } from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { saveLocalStorage } from "../../Localstorange/localstorange";
 
 const Donat = () => {
     const donats = useLoaderData();
@@ -9,7 +10,7 @@ const Donat = () => {
     const donat = donats.find(donat => donat.id === newid)
 
     const handledonate = () => {
-        console.log('handle btn clicked');
+        saveLocalStorage(newid);
         toast('Its impossibole')
     }
 
