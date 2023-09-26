@@ -11,7 +11,7 @@ const Donat = () => {
 
     const handledonate = () => {
         saveLocalStorage(newid);
-        toast('Its impossibole')
+        toast('Added succesfully')
     }
 
     return (

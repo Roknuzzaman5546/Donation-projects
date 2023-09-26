@@ -24,6 +24,7 @@ const Donation = () => {
 
     return (
         <div>
+            <h2>don: {donatsfile.length}</h2>
             <div className="grid md:grid-cols-2 gap-3 w-11/12 mx-auto mt-20">
                 {
                     donatsfile.slice(0, seeallbtn).map(don => <Singledonat key={don.id} don={don}></Singledonat>)
