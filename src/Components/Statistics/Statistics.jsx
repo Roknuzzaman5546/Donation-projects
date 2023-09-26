@@ -33,7 +33,7 @@ const Statistics = () => {
                 },
             ]}
             legend={{
-                direction: "row",
+                direction: "col",
                 position: {
                   vertical: "middle",
                   horizontal: "middle"

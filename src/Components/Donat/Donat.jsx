@@ -16,7 +16,6 @@ const Donat = () => {
 
     return (
         <div className=" w-11/12 mx-auto mt-5">
-
             <div className=" relative">
                 <img className="w-full" src={donat.img} alt="" />
                 <div style={{backgroundColor: 'rgba(11, 11, 11, 0.50)' }} className=" w-full py-2 pl-4 absolute bottom-0 left-0">
