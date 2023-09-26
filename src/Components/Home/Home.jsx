@@ -1,5 +1,4 @@
 import Banner from "../Banner/Banner";
-import Homeall from "../Homeall/Homeall";
 
 const Home = () => {
     return (
@@ -7,7 +6,6 @@ const Home = () => {
             <div>
                 <Banner></Banner>
             </div>
-            <Homeall></Homeall>
         </div>
     );
 };
