@@ -24,27 +24,29 @@ const Statistics = () => {
     };
 
     return (
-        <PieChart
-            series={[
-                {
-                    outerRadius: 150,
-                    data,
-                    arcLabel: (params) => `${((params.value / 12) * 100).toFixed(1)}%`
-                },
-            ]}
-            legend={{
-                direction: "col",
-                position: {
-                  vertical: "middle",
-                  horizontal: "middle"
-                }
-              }}
-              sx={{
-                "--ChartsLegend-rootOffsetX": "0px",
-                "--ChartsLegend-rootOffsetY": "200px",
-              }}
-            {...sizing}
-        />
+        <div className=' w-11/12 mx-auto'>
+            <PieChart
+                series={[
+                    {
+                        outerRadius: 150,
+                        data,
+                        arcLabel: (params) => `${((params.value / 12) * 100).toFixed(1)}%`
+                    },
+                ]}
+                legend={{
+                    direction: "col",
+                    position: {
+                        vertical: "middle",
+                        horizontal: "middle"
+                    }
+                }}
+                sx={{
+                    "--ChartsLegend-rootOffsetX": "0px",
+                    "--ChartsLegend-rootOffsetY": "200px",
+                }}
+                {...sizing}
+            />
+        </div>
     )
 };
 
