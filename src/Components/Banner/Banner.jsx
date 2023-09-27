@@ -27,7 +27,7 @@ const Banner = () => {
     }
 
     useEffect(() => {
-        fetch('donation.json')
+        fetch('data.json')
             .then(res => res.json())
             .then(data => setdoations(data))
     }, [])
